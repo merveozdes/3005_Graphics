@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-10-12">
+    <creator>Gephi 0.11.3</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="University of Vienna (Viyana Üniversitesi)" label="University of Vienna (Viyana Üniversitesi)">
+        <viz:size value="10.0"/>
+        <viz:position x="107.612" y="-3.8873873"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mantıksal Pozitivizm ve Empirizm" label="Mantıksal Pozitivizm ve Empirizm">
+        <viz:size value="10.0"/>
+        <viz:position x="96.43184" y="31.457636"/>
+        <viz:color r="247" g="104" b="161"/>
+      </node>
+      <node id="University of Berlin (Berlin Üniversitesi)" label="University of Berlin (Berlin Üniversitesi)">
+        <viz:size value="10.0"/>
+        <viz:position x="-74.5114" y="-84.72686"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bilim Mantığı ve Analiz" label="Bilim Mantığı ve Analiz">
+        <viz:size value="10.0"/>
+        <viz:position x="-88.004265" y="-46.79557"/>
+        <viz:color r="184" g="52" b="140"/>
+      </node>
+      <node id="Gesellschaft für wissenschaftliche Philosophie" label="Gesellschaft für wissenschaftliche Philosophie">
+        <viz:size value="10.0"/>
+        <viz:position x="-33.368008" y="61.020844"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kurumsallaşma ve Eğitim" label="Kurumsallaşma ve Eğitim">
+        <viz:size value="10.0"/>
+        <viz:position x="-8.502043" y="93.11368"/>
+        <viz:color r="122" g="1" b="119"/>
+      </node>
+      <node id="German University of Prague (Prag Alman Üniversitesi)" label="German University of Prague (Prag Alman Üniversitesi)">
+        <viz:size value="10.0"/>
+        <viz:position x="131.87376" y="40.277386"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Erkenntnis (Dergi)" label="Erkenntnis (Dergi)">
+        <viz:size value="10.0"/>
+        <viz:position x="-1.3577664" y="-27.371464"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Akademik Yayıncılık ve Literatür" label="Akademik Yayıncılık ve Literatür">
+        <viz:size value="10.0"/>
+        <viz:position x="-2.8214688" y="2.425445"/>
+        <viz:color r="122" g="1" b="119"/>
+      </node>
+      <node id="Erkenntnis" label="Erkenntnis">
+        <viz:size value="10.0"/>
+        <viz:position x="-41.23403" y="-22.868586"/>
+        <viz:color r="250" g="169" b="193"/>
+      </node>
+      <node id="Viyana Çevresi (Wiener Kreis)" label="Viyana Çevresi (Wiener Kreis)">
+        <viz:size value="10.0"/>
+        <viz:position x="-123.50008" y="-66.13462"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Berliner Akademie der Wissenschaften" label="Berliner Akademie der Wissenschaften">
+        <viz:size value="10.0"/>
+        <viz:position x="-115.71967" y="-16.357105"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Marburger Schule" label="Marburger Schule">
+        <viz:size value="10.0"/>
+        <viz:position x="30.894903" y="-143.82431"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kant Felsefesi" label="Kant Felsefesi">
+        <viz:size value="10.0"/>
+        <viz:position x="57.400757" y="-130.49509"/>
+        <viz:color r="250" g="169" b="193"/>
+      </node>
+      <node id="Die Naturwissenschaften" label="Die Naturwissenschaften">
+        <viz:size value="10.0"/>
+        <viz:position x="84.356895" y="-118.16786"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Journal of Philosophy, Inc." label="Journal of Philosophy, Inc.">
+        <viz:size value="10.0"/>
+        <viz:position x="-22.22862" y="13.225876"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="University of Istanbul" label="University of Istanbul">
+        <viz:size value="10.0"/>
+        <viz:position x="49.011093" y="60.376225"/>
+        <viz:color r="250" g="169" b="193"/>
+      </node>
+      <node id="İstanbul Üniversitesi Felsefe Bölümü" label="İstanbul Üniversitesi Felsefe Bölümü">
+        <viz:size value="10.0"/>
+        <viz:position x="19.464228" y="126.054504"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Cambridge University Press" label="Cambridge University Press">
+        <viz:size value="10.0"/>
+        <viz:position x="20.280739" y="6.7257032"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="İstanbul Üniversitesi" label="İstanbul Üniversitesi">
+        <viz:size value="10.0"/>
+        <viz:position x="-56.004665" y="96.03839"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="A. Ü. D. T. C. Fakültesi" label="A. Ü. D. T. C. Fakültesi">
+        <viz:size value="10.0"/>
+        <viz:position x="-30.293968" y="132.53365"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="İstanbul Üniversitesi Edebiyat Fakültesi yayınları dizisi" label="İstanbul Üniversitesi Edebiyat Fakültesi yayınları dizisi">
+        <viz:size value="10.0"/>
+        <viz:position x="23.025972" y="-21.769156"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2987" source="University of Vienna (Viyana Üniversitesi)" target="Mantıksal Pozitivizm ve Empirizm"/>
+      <edge id="2988" source="University of Berlin (Berlin Üniversitesi)" target="Bilim Mantığı ve Analiz"/>
+      <edge id="2989" source="Gesellschaft für wissenschaftliche Philosophie" target="Kurumsallaşma ve Eğitim"/>
+      <edge id="2990" source="German University of Prague (Prag Alman Üniversitesi)" target="Mantıksal Pozitivizm ve Empirizm"/>
+      <edge id="2991" source="Erkenntnis (Dergi)" target="Akademik Yayıncılık ve Literatür"/>
+      <edge id="2992" source="Erkenntnis" target="Bilim Mantığı ve Analiz"/>
+      <edge id="2993" source="Erkenntnis" target="Akademik Yayıncılık ve Literatür"/>
+      <edge id="2994" source="Viyana Çevresi (Wiener Kreis)" target="Bilim Mantığı ve Analiz"/>
+      <edge id="2995" source="Berliner Akademie der Wissenschaften" target="Bilim Mantığı ve Analiz"/>
+      <edge id="2996" source="Marburger Schule" target="Kant Felsefesi"/>
+      <edge id="2997" source="Die Naturwissenschaften" target="Kant Felsefesi"/>
+      <edge id="2998" source="Journal of Philosophy, Inc." target="Akademik Yayıncılık ve Literatür"/>
+      <edge id="2999" source="University of Istanbul" target="Mantıksal Pozitivizm ve Empirizm"/>
+      <edge id="3000" source="İstanbul Üniversitesi Felsefe Bölümü" target="Kurumsallaşma ve Eğitim"/>
+      <edge id="3001" source="University of Istanbul" target="Kurumsallaşma ve Eğitim"/>
+      <edge id="3002" source="Cambridge University Press" target="Akademik Yayıncılık ve Literatür"/>
+      <edge id="3003" source="İstanbul Üniversitesi" target="Kurumsallaşma ve Eğitim"/>
+      <edge id="3004" source="A. Ü. D. T. C. Fakültesi" target="Kurumsallaşma ve Eğitim"/>
+      <edge id="3005" source="İstanbul Üniversitesi Edebiyat Fakültesi yayınları dizisi" target="Akademik Yayıncılık ve Literatür"/>
+    </edges>
+  </graph>
+</gexf>
