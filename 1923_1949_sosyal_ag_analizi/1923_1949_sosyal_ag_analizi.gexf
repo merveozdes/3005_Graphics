@@ -1,0 +1,4114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-10-12">
+    <creator>Gephi 0.11.3</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="ınteger">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="dönem" title="dönem" type="string"/>
+      <attribute id="metin" title="metin" type="string"/>
+      <attribute id="ilişki türü" title="ilişki türü" type="string"/>
+      <attribute id="kaynak metindeki açıklama" title="kaynak metindeki açıklama" type="string"/>
+      <attribute id="ıliski" title="Iliski" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="Ziya Gökalp" label="Ziya Gökalp">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="264.57764" y="220.18951"/>
+        <viz:color r="249" g="144" b="181"/>
+      </node>
+      <node id="Tarde" label="Tarde">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-386.16425" y="-442.0045"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bergson" label="Bergson">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4.4441404" y="-55.62138"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Durkheim" label="Durkheim">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-120.00627" y="-239.43503"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Karl Marx" label="Karl Marx">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-141.77057" y="-443.82275"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Edmond Demolins" label="Edmond Demolins">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="170.76366" y="-90.62094"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Atatürk" label="Atatürk">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-285.99066" y="-173.88986"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ali Rıza Efendi" label="Ali Rıza Efendi">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-503.30225" y="-170.16661"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="III. Sultan Selim" label="III. Sultan Selim">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-288.70557" y="2.093254"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Eşref Edib" label="Eşref Edib">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-301.45264" y="-600.50085"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mehmet Akif" label="Mehmet Akif">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-58.340984" y="119.77844"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Yusuf Akçura" label="Yusuf Akçura">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-271.84238" y="212.92894"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Aşık Paşa" label="Aşık Paşa">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="252.23083" y="-357.04105"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Nevaî (Ali Şir Nevaî)" label="Nevaî (Ali Şir Nevaî)">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="224.12761" y="-145.73149"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Sürurî" label="Sürurî">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-53.387363" y="277.37732"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Refii Ahmedi" label="Refii Ahmedi">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-540.9522" y="-380.51547"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ahmet Vefik Paşa" label="Ahmet Vefik Paşa">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="80.65536" y="-387.57602"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Abdullah Nedim" label="Abdullah Nedim">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="115.41057" y="-561.97266"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Naim Bey Fraşeri" label="Naim Bey Fraşeri">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-481.48938" y="85.93087"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Şemseddin Sami" label="Şemseddin Sami">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-232.79239" y="336.52835"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Arabi Paşa" label="Arabi Paşa">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="376.70108" y="-143.01128"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Abdülhamid" label="Abdülhamid">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="322.93924" y="-51.030083"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hülagu" label="Hülagu">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="341.19434" y="65.82551"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Cengiz Han" label="Cengiz Han">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-450.4525" y="218.80795"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Muttasım Billah" label="Muttasım Billah">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-103.55799" y="-617.89716"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tarık bin Ziyad" label="Tarık bin Ziyad">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="313.71255" y="-383.3831"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Fichte" label="Fichte">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-48.28953" y="368.5122"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Schelling" label="Schelling">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-19.373585" y="-136.4498"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Hegel" label="Hegel">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-113.59335" y="-141.935"/>
+        <viz:color r="253" g="226" b="221"/>
+      </node>
+      <node id="Kant" label="Kant">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-250.62614" y="-61.665302"/>
+        <viz:color r="253" g="223" b="220"/>
+      </node>
+      <node id="Kadı Rızaeddin" label="Kadı Rızaeddin">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="78.821434" y="317.85205"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Musa Begyif" label="Musa Begyif">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-617.6731" y="-111.93152"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hans Reichenbach" label="Hans Reichenbach">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="119.74691" y="-316.4237"/>
+        <viz:color r="138" g="14" b="124"/>
+      </node>
+      <node id="Immanuel Kant" label="Immanuel Kant">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-76.78207" y="-21.02311"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Helmholtz" label="Helmholtz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="204.1877" y="-304.49384"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Goethe" label="Goethe">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-73.87374" y="59.64015"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Schiller" label="Schiller">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="135.62465" y="-197.30138"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Galilei" label="Galilei">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="29.52884" y="143.86922"/>
+        <viz:color r="253" g="226" b="221"/>
+      </node>
+      <node id="Wright von Durham" label="Wright von Durham">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="239.78317" y="68.03734"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="K. Gerhards" label="K. Gerhards">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="398.14523" y="-3.1967297"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="H. Driesch" label="H. Driesch">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="304.1164" y="75.90676"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="R. Carnap" label="R. Carnap">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="84.57748" y="5.3018537"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="K. Gödel" label="K. Gödel">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="158.03265" y="62.36061"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lukasiewicz" label="Lukasiewicz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="126.87911" y="-106.548515"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Tarski" label="Tarski">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="67.8535" y="-122.29068"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="L. Brouwer" label="L. Brouwer">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="73.40793" y="124.89283"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="C. Lewis" label="C. Lewis">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-0.6286427" y="42.670235"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Peirce" label="Peirce">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="211.3703" y="-231.66882"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="James" label="James">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="156.72401" y="-141.932"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Dewey" label="Dewey">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="176.5706" y="-269.65973"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Einstein" label="Einstein">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-22.063951" y="69.13285"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Heisenberg" label="Heisenberg">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.79642" y="75.06717"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bohr" label="Bohr">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="167.42056" y="-233.8509"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hume" label="Hume">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="100.4563" y="-43.77562"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Descartes" label="Descartes">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-44.50164" y="34.03211"/>
+        <viz:color r="253" g="229" b="223"/>
+      </node>
+      <node id="Popper" label="Popper">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="96.1243" y="-273.66415"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Frank Miller Chapman" label="Frank Miller Chapman">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-25.888031" y="-344.8623"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ernest Nagel" label="Ernest Nagel">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="75.66468" y="-161.78485"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Carnap" label="Carnap">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="283.11758" y="-220.07098"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Russell" label="Russell">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-18.233524" y="139.68065"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Louis O. Kattsoff" label="Louis O. Kattsoff">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="470.3963" y="250.67847"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="S. Mazurkiewicz" label="S. Mazurkiewicz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="264.52472" y="-296.05405"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Post" label="Post">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="391.24286" y="-41.08129"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bolyai" label="Bolyai">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="266.4791" y="-170.8982"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lobatschefsky" label="Lobatschefsky">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="102.062065" y="-184.6709"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="J. Hosiasson" label="J. Hosiasson">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-74.24433" y="-320.56973"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Schrödinger" label="Schrödinger">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="51.105774" y="-199.88443"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Charles Peirce" label="Charles Peirce">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="102.86637" y="-227.86287"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="A. A. Michelson" label="A. A. Michelson">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="233.58311" y="-194.87082"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Euclid" label="Euclid">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-106.74059" y="75.007195"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Akder" label="Akder">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-119.40031" y="202.68861"/>
+        <viz:color r="122" g="1" b="119"/>
+      </node>
+      <node id="Pascal" label="Pascal">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="154.88496" y="-7.330456"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Spinoza" label="Spinoza">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-48.15591" y="158.17137"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Newton" label="Newton">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-134.60838" y="-12.225464"/>
+        <viz:color r="253" g="226" b="221"/>
+      </node>
+      <node id="Yahya Kemal" label="Yahya Kemal">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-256.17255" y="47.6287"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Şekip Tunc" label="Şekip Tunc">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-51.732822" y="-65.92534"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Charles Gide" label="Charles Gide">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-58.927536" y="-108.39062"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Baltacıoğlu" label="Baltacıoğlu">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-123.32059" y="139.2412"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lord Shelburne" label="Lord Shelburne">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="39.752125" y="-164.054"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Burke" label="Burke">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-26.313107" y="-37.70783"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Fox" label="Fox">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-218.30565" y="85.555725"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Arthur Jung" label="Arthur Jung">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-65.59633" y="-157.30933"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tocqueville" label="Tocqueville">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-292.09332" y="160.9541"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Heine" label="Heine">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-96.97489" y="-184.69275"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Quinet" label="Quinet">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="253.38962" y="-245.4957"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Berkeley" label="Berkeley">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="64.65822" y="39.54283"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="David Hume" label="David Hume">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="37.000477" y="17.081348"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Avenarius" label="Avenarius">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="241.10199" y="-87.39893"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Darwin" label="Darwin">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="189.45825" y="155.07297"/>
+        <viz:color r="253" g="229" b="223"/>
+      </node>
+      <node id="Nietzsche" label="Nietzsche">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="59.165665" y="-67.69396"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Vaihinger" label="Vaihinger">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="42.03475" y="-100.014046"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="William James" label="William James">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="201.93156" y="-67.60771"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hüseyin Cahit Yalçın" label="Hüseyin Cahit Yalçın">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="379.25565" y="-243.72093"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hilbert" label="Hilbert">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-47.716206" y="-217.38298"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Cantor" label="Cantor">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-254.72894" y="161.36295"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Leibniz" label="Leibniz">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-24.449831" y="-89.70084"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Giovanni Peano" label="Giovanni Peano">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="128.66803" y="-250.09029"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Gottlob Frege" label="Gottlob Frege">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="427.70074" y="-170.228"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Whitehead" label="Whitehead">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="5.5619173" y="-369.3784"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Wittgenstein" label="Wittgenstein">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="109.55437" y="166.42912"/>
+        <viz:color r="253" g="229" b="223"/>
+      </node>
+      <node id="Rudolph Carnap" label="Rudolph Carnap">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="106.67197" y="65.59053"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Otto Neurath" label="Otto Neurath">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="195.65964" y="42.48636"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Reichenbach" label="Reichenbach">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="27.027544" y="-131.95135"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Planck" label="Planck">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="116.967094" y="-438.90717"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Henri Poincare" label="Henri Poincare">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="206.2985" y="-408.78748"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Nicolai Hartmann" label="Nicolai Hartmann">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="483.82068" y="-418.02155"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Brehier" label="Brehier">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-109.20506" y="-38.620438"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Claude Bernard" label="Claude Bernard">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="308.11996" y="-17.66738"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Borel" label="Borel">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-129.4363" y="-502.65363"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="J. W. N. Sullivan" label="J. W. N. Sullivan">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-199.38097" y="-67.3318"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Gianbastio Vico" label="Gianbastio Vico">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="547.80676" y="-68.8575"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Louis de Broglie" label="Louis de Broglie">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-135.03201" y="241.05353"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Maurice de Broglie" label="Maurice de Broglie">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="191.4387" y="202.70544"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Eddington" label="Eddington">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="129.46722" y="-638.47784"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Milne" label="Milne">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-22.087362" y="196.30473"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lebesgue" label="Lebesgue">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="354.3116" y="-453.58783"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lecomte du Noüy" label="Lecomte du Noüy">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-44.705" y="-601.0851"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Diderot" label="Diderot">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="212.23355" y="114.89811"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Condillac" label="Condillac">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-152.30737" y="186.40785"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Condorcet" label="Condorcet">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-209.30013" y="-521.4349"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="L. Rougier" label="L. Rougier">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="482.58667" y="107.731804"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tevfik Fikret" label="Tevfik Fikret">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="595.4962" y="-378.24597"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Laffon-Montels" label="Laffon-Montels">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="58.88481" y="76.468315"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Edmond Dolleans" label="Edmond Dolleans">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-211.78705" y="-307.78506"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Andre Lorulot" label="Andre Lorulot">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="26.929365" y="-633.57904"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mehmed Akif" label="Mehmed Akif">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-96.251205" y="113.86612"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ricardo" label="Ricardo">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-361.8939" y="-173.50174"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Georges Sorel" label="Georges Sorel">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="363.88507" y="-607.5341"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hitler" label="Hitler">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="651.64856" y="-282.18372"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Landschuts" label="Landschuts">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="137.79495" y="379.14835"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Sorokin" label="Sorokin">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-149.24913" y="36.95831"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Stalin" label="Stalin">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="211.71333" y="304.35498"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Sokrat" label="Sokrat">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="347.4302" y="393.244"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Dupont Witt" label="Dupont Witt">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-89.75014" y="165.59912"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kautsky" label="Kautsky">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="470.89322" y="286.8249"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Engels" label="Engels">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="7.777252" y="245.07077"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Sombart" label="Sombart">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-323.86182" y="-45.98307"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Jean Paul" label="Jean Paul">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="686.0719" y="-165.48808"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Spranger" label="Spranger">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-154.90588" y="120.99229"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Rickert" label="Rickert">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="252.16313" y="-642.8526"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Windelband" label="Windelband">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-314.7031" y="-450.46088"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lalande" label="Lalande">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-302.5711" y="64.65059"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Wilhelm Jerusalem" label="Wilhelm Jerusalem">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-182.88544" y="249.2617"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tagor" label="Tagor">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="61.02952" y="435.4854"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Beethoven" label="Beethoven">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-78.800606" y="222.18404"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Simmel" label="Simmel">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-93.315735" y="348.78818"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Aristofan" label="Aristofan">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-203.42574" y="165.84879"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Jacques Maritain" label="Jacques Maritain">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="682.98474" y="11.556793"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Machiavelli" label="Machiavelli">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="509.48468" y="-541.09674"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Allan H. Gilbert" label="Allan H. Gilbert">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-29.473022" y="244.04189"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Max Lerner" label="Max Lerner">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-260.3214" y="124.07497"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Alberto Mochi" label="Alberto Mochi">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="624.7279" y="183.7854"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Gompertz" label="Gompertz">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-362.2975" y="-314.72815"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Vorlaender" label="Vorlaender">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-212.1456" y="123.77711"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Boran" label="Boran">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-114.18251" y="29.99154"/>
+        <viz:color r="252" g="205" b="211"/>
+      </node>
+      <node id="Auguste Comte" label="Auguste Comte">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="109.9029" y="113.94039"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="C. Cooley (Charles Cooley)" label="C. Cooley (Charles Cooley)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="297.73657" y="383.18814"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Dilthey" label="Dilthey">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="84.80368" y="238.07632"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="M. Weber" label="M. Weber">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="265.65836" y="132.52585"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="W. Sombart" label="W. Sombart">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="13.423285" y="301.3421"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="G. A. Lunberg" label="G. A. Lunberg">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="142.7266" y="414.81"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Galile" label="Galile">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="389.1013" y="231.07335"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Piaget" label="Piaget">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="412.00046" y="55.73095"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="F. Thrasher" label="F. Thrasher">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="286.00574" y="-53.996086"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Muzaffer Şerif" label="Muzaffer Şerif">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-119.67261" y="282.54337"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="J. F. Markey" label="J. F. Markey">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="191.80667" y="-158.15788"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Nusret Hızır" label="Nusret Hızır">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-175.16896" y="-108.96078"/>
+        <viz:color r="248" g="127" b="172"/>
+      </node>
+      <node id="Kepler" label="Kepler">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-11.11164" y="104.86856"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Lykurgos" label="Lykurgos">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-13.34878" y="-212.2626"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Eflâtun (Platon)" label="Eflâtun (Platon)">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="120.665955" y="-1.9516399"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="J. J. Rousseau" label="J. J. Rousseau">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="38.88214" y="-315.6447"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bertrand Russell" label="Bertrand Russell">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-142.21716" y="84.09521"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Laplace" label="Laplace">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-45.65363" y="-0.51183236"/>
+        <viz:color r="253" g="229" b="223"/>
+      </node>
+      <node id="W. Heisenberg" label="W. Heisenberg">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-358.10995" y="38.425045"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Max Planck" label="Max Planck">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-188.37091" y="-151.74373"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="R. von Mises" label="R. von Mises">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="346.90112" y="11.805084"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="E. L. Post" label="E. L. Post">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="318.8076" y="-197.55296"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Geiger" label="Geiger">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-81.551575" y="297.0219"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Scheel" label="Scheel">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="287.85776" y="-335.58246"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="A. Lalande" label="A. Lalande">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="158.57014" y="230.08246"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="D. Hilbert" label="D. Hilbert">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="440.33917" y="180.11221"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="W. Ackermann" label="W. Ackermann">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-350.93887" y="207.177"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Leon Brunschvicg" label="Leon Brunschvicg">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="39.006737" y="-403.26144"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Cournot" label="Cournot">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="348.45886" y="343.81317"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Aristo" label="Aristo">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-248.3714" y="387.8546"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Moritz Schlick" label="Moritz Schlick">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-44.05304" y="488.93842"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hans Hahn" label="Hans Hahn">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="150.75504" y="459.90997"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Eflâtun" label="Eflâtun">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="474.30142" y="-90.290085"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Bacon" label="Bacon">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-170.92175" y="2.5344682"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Boltzmann" label="Boltzmann">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-225.43015" y="201.48018"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Boole" label="Boole">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-119.40359" y="413.6908"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="De Morgan" label="De Morgan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-275.49658" y="431.08047"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Fleck" label="Fleck">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-202.79565" y="52.367153"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Freud" label="Freud">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-15.969269" y="389.61032"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Galileo" label="Galileo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-385.91864" y="115.453064"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Gauss" label="Gauss">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-147.86024" y="301.7768"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hartmann" label="Hartmann">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-297.0207" y="593.095"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Hempel" label="Hempel">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-590.96185" y="131.92258"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Keynes" label="Keynes">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="95.05551" y="379.536"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kokoszynska" label="Kokoszynska">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-199.64719" y="625.68146"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kolmogoroff" label="Kolmogoroff">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-410.92468" y="6.69014"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lavoisier" label="Lavoisier">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="139.36234" y="591.01556"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Leibnitz" label="Leibnitz">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-593.8983" y="-3.4577866"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Levy-Bruhl" label="Levy-Bruhl">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="195.47475" y="336.89688"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lewis" label="Lewis">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-94.00286" y="644.2205"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lichtenberg" label="Lichtenberg">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-323.7507" y="-115.9052"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Locke" label="Locke">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-142.52756" y="-98.23832"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Lowy" label="Lowy">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="257.69766" y="551.29425"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mach" label="Mach">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-526.253" y="-139.12094"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Michelson" label="Michelson">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="16.599867" y="633.53326"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mill" label="Mill">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="25.091093" y="-16.745514"/>
+        <viz:color r="253" g="232" b="224"/>
+      </node>
+      <node id="Mises" label="Mises">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-579.1582" y="250.85799"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Neurath" label="Neurath">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-483.25452" y="437.2246"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ogden" label="Ogden">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-148.0149" y="-51.371418"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Plato" label="Plato">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-289.736" y="-254.22086"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Poincare" label="Poincare">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="309.73047" y="325.40607"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Schaxel" label="Schaxel">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-390.91034" y="262.15308"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tolman" label="Tolman">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-147.04141" y="-210.4744"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Tornier" label="Tornier">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-294.40997" y="-331.83047"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Venn" label="Venn">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="416.63928" y="416.8496"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Voltaire" label="Voltaire">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-564.05035" y="363.07507"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Watson" label="Watson">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-347.26144" y="391.55847"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Whewell" label="Whewell">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-249.23395" y="-376.82654"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="William of Ockham" label="William of Ockham">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-484.6764" y="-258.0757"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Zawirski" label="Zawirski">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-416.9449" y="549.7345"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Ernst von Aster" label="Ernst von Aster">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="132.39165" y="30.798468"/>
+        <viz:color r="250" g="176" b="197"/>
+      </node>
+      <node id="Aristoteles" label="Aristoteles">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="159.33179" y="-53.03564"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Platon" label="Platon">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-175.13641" y="214.54225"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Euklides" label="Euklides">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-208.5176" y="-11.948886"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Christian Wolff" label="Christian Wolff">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="54.6097" y="-251.01167"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Mendel" label="Mendel">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="16.675776" y="195.5058"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Kopernikus" label="Kopernikus">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-232.27406" y="-174.7002"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Gazali" label="Gazali">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-310.60394" y="113.33245"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Maxwell" label="Maxwell">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-11.43084" y="-5.750684"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+      <node id="Lamettrie" label="Lamettrie">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-84.71005" y="-220.2058"/>
+        <viz:color r="254" g="235" b="226"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2658" source="Ziya Gökalp" target="Tarde">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ünlü bir Fransız sosyoloğu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2659" source="Ziya Gökalp" target="Bergson">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fransız filozofu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2660" source="Ziya Gökalp" target="Durkheim">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fransız sosyoloğu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2661" source="Ziya Gökalp" target="Karl Marx">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Tarihi Maddecilik&quot; taraftarı olan bir sosyolog olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2662" source="Ziya Gökalp" target="Edmond Demolins">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sosyolog olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2663" source="Ziya Gökalp" target="Atatürk">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Cumhuriyetin kurucusu ve büyük bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2664" source="Ziya Gökalp" target="Ali Rıza Efendi">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Atatürk’ün etinin ve kemiğinin babası olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2665" source="Ziya Gökalp" target="III. Sultan Selim">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Islahatçı bir padişah olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2666" source="Ziya Gökalp" target="Eşref Edib">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sırat-ı Müstakim dergisini çıkaran kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2667" source="Ziya Gökalp" target="Mehmet Akif">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sırat-ı Müstakim dergisinin başyazarı olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2668" source="Ziya Gökalp" target="Yusuf Akçura">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Türk Yurdu dergisini yöneten kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2669" source="Ziya Gökalp" target="Aşık Paşa">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Türk edebiyatının başlangıcıyla ilişkilendirilen bir isim olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2670" source="Ziya Gökalp" target="Nevaî (Ali Şir Nevaî)">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Türk edebiyatının başlangıcıyla ilişkilendirilen bir isim olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2671" source="Ziya Gökalp" target="Sürurî">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="18. yüzyıl Divan Edebiyatı şair ve tarihçilerinden biri olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2672" source="Ziya Gökalp" target="Refii Ahmedi">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sürurî’nin mısralarında adı geçen bir kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2673" source="Ziya Gökalp" target="Ahmet Vefik Paşa">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Osmanlı dönemi devlet adamı, edebiyatçı ve büyük bir Türkçü olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2674" source="Ziya Gökalp" target="Abdullah Nedim">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mısır’da Arap milliyetçiliğini canlandırmaya çalışan kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2675" source="Ziya Gökalp" target="Naim Bey Fraşeri">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Arnavut milliyetçiliğini canlandırmaya çalışan kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2676" source="Ziya Gökalp" target="Şemseddin Sami">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kaamus-ı Türkî yazarı olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2677" source="Ziya Gökalp" target="Arabi Paşa">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Abdullah Nedim’in mürşidi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2678" source="Ziya Gökalp" target="Abdülhamid">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Padişah ve baskı yönetimiyle ilişkilendirilen bir isim olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2679" source="Ziya Gökalp" target="Hülagu">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İlhanlı Devleti’nin kurucusu ve zalimliğiyle tanınan bir isim olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2680" source="Ziya Gökalp" target="Cengiz Han">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Hülagu’nun dedesi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2681" source="Ziya Gökalp" target="Muttasım Billah">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Abbasi Halifesi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2682" source="Ziya Gökalp" target="Tarık bin Ziyad">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Endülüs Fatihi ve ünlü bir Berberi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2683" source="Ziya Gökalp" target="Fichte">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ünlü bir Alman filozofu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2684" source="Ziya Gökalp" target="Schelling">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Alman filozofu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2685" source="Ziya Gökalp" target="Hegel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Alman filozofu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2686" source="Ziya Gökalp" target="Kant">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ahlak felsefesiyle ilişkilendirilen bir isim olarak anılmaktadır"/>
+        </attvalues>
+      </edge>
+      <edge id="2687" source="Ziya Gökalp" target="Kadı Rızaeddin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Türkçü bir isim olarak anılmaktadır"/>
+        </attvalues>
+      </edge>
+      <edge id="2688" source="Ziya Gökalp" target="Musa Begyif">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Gökalp - Türkleşmek, İslamlaşmak, Muasırlaşmak"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Türkçü bir isim olarak anılmaktadır"/>
+        </attvalues>
+      </edge>
+      <edge id="2689" source="Hans Reichenbach" target="Immanuel Kant">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Metnin ana odak noktası olan, felsefesi ve bilim anlayışı tartışılan filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2690" source="Hans Reichenbach" target="Helmholtz" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizik ve bilgi kuramı bağlamında tarihsel örnek olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2691" source="Hans Reichenbach" target="Goethe">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kant'ın felsefesinden etkilenen, eserlerinde ona atıfta bulunan edebiyatçı."/>
+        </attvalues>
+      </edge>
+      <edge id="2692" source="Hans Reichenbach" target="Schiller" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pragmatist doğruluk kuramının gelişiminde James ve Dewey ile birlikte anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2693" source="Hans Reichenbach" target="Galilei">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel fiziğin yöntemini belirleyen ve Aristotelesçi doğa felsefesini eleştiren bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2694" source="Hans Reichenbach" target="Wright von Durham">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kant'ın kozmolojik düşüncelerine ilham veren İngiliz düşünür."/>
+        </attvalues>
+      </edge>
+      <edge id="2695" source="Hans Reichenbach" target="K. Gerhards">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Metinde bir dipnotta atıfta bulunulan yazar."/>
+        </attvalues>
+      </edge>
+      <edge id="2696" source="Hans Reichenbach" target="H. Driesch">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1933_Kant"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kant'ın uzay öğretisini savunan ve Reichenbach tarafından eleştirilen yazar."/>
+        </attvalues>
+      </edge>
+      <edge id="2697" source="Hans Reichenbach" target="R. Carnap">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1935_Wahrscheinlichkeitslogik"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantıksal sözdizimi ve bilim mantığı üzerine çalışmalarıyla, özellikle Logische Syntax der Sprache, Die Aufgabe der Wissenschaftslogik, Philosophy and Logical Syntax ve Die Antinomien und die Unvollständigkeit der Mathematik adlı eserleriyle atıfta bulunulan bir isimdir."/>
+        </attvalues>
+      </edge>
+      <edge id="2698" source="Hans Reichenbach" target="K. Gödel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1935_Wahrscheinlichkeitslogik"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Über formal unentscheidbare Sätze... adlı çalışmasıyla, Carnap'ın matematiksel antinomiler üzerine yaptığı değerlendirmelerin temelini oluşturan kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2699" source="Hans Reichenbach" target="Lukasiewicz" weight="3.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Çok değerli mantık ve olasılık mantığı tartışmasında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2700" source="Hans Reichenbach" target="Tarski" weight="4.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Doğruluk kuramı ve biçimsel diller üzerine çalışmasına açık bibliyografik atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2701" source="Hans Reichenbach" target="L. Brouwer">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1935_Wahrscheinlichkeitslogik"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sezgiselcilik (Intuitionismus) düşünce okulunun kurucusu olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2702" source="Hans Reichenbach" target="C. Lewis">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1935_Wahrscheinlichkeitslogik"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Strict implication&quot; (sıkı gerektirme) teorisini geliştiren kişi olarak belirtilmiştir."/>
+        </attvalues>
+      </edge>
+      <edge id="2703" source="Hans Reichenbach" target="Hegel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_empiricism"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Metin yazarı tarafından, doğal bilimlerin aksine metafizik sistemler kurmakla eleştirilen filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2704" source="Hans Reichenbach" target="Peirce" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pragmatik anlam/doğruluk yaklaşımının kaynağı olarak doğrudan anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2705" source="Hans Reichenbach" target="James" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pragmatist doğruluk ve anlam yaklaşımının gelişiminde etkili isim olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2706" source="Hans Reichenbach" target="Dewey" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pragmatist gelenek ve deneyim/algı tartışmaları içinde doğrudan referans verilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2707" source="Hans Reichenbach" target="Einstein" weight="3.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Görelilik teorisi ve bilimsel kavramların anlamı bağlamında merkezi bir örnektir."/>
+        </attvalues>
+      </edge>
+      <edge id="2708" source="Hans Reichenbach" target="Heisenberg">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_empiricism"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kuantum teorisiyle nedensellik kavramını eleştiren bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2709" source="Hans Reichenbach" target="Bohr" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kuantum fiziği ve bilimsel açıklama bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2710" source="Hans Reichenbach" target="Kant" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Apriorizm, mantık ve bilgi teorisi tartışmalarında temel tarihsel referanstır."/>
+        </attvalues>
+      </edge>
+      <edge id="2711" source="Hans Reichenbach" target="Hume" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım ve nedensellik konusundaki şüpheci itirazları Reichenbach'ın tartışmasının merkezindedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2712" source="Hans Reichenbach" target="Descartes" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantıksal apriorizm ve modern rasyonalizm bağlamında tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2713" source="Hans Reichenbach" target="Popper" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Logik der Forschung çalışmasına açıkça atıf yapılarak görüşü eleştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2714" source="Hans Reichenbach" target="Frank Miller Chapman">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_empiricism"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Patrick'in kitabına katkıda bulunan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2715" source="Hans Reichenbach" target="Ernest Nagel" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Yazarın Wahrscheinlichkeitslehre adlı kitabını inceleyen ve yazarın olasılık ve tümevarım konusundaki fikirlerini eleştiren kişidir."/>
+        </attvalues>
+      </edge>
+      <edge id="2716" source="Hans Reichenbach" target="Carnap" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Dil, doğrulanabilirlik, mantık ve pozitivizm tartışmalarında doğrudan ilişkilendirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2718" source="Hans Reichenbach" target="Russell" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Modern lojik ve nominalizm/biçimsel mantık bağlamında temel isimlerden biridir."/>
+        </attvalues>
+      </edge>
+      <edge id="2719" source="Hans Reichenbach" target="Louis O. Kattsoff">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Reichenbach'ın kitabına dair bir inceleme yazan ve metinde kendisine atıfta bulunulan kişidir."/>
+        </attvalues>
+      </edge>
+      <edge id="2720" source="Hans Reichenbach" target="S. Mazurkiewicz" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tarski'nin, yazarın olasılık mantığına yönelik eleştirisinde referans verdiği bir isimdir."/>
+        </attvalues>
+      </edge>
+      <edge id="2722" source="Hans Reichenbach" target="Post">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Çok değerli mantık sistemlerinin iki değerli mantığa indirgenebilirliğini gösteren kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2723" source="Hans Reichenbach" target="Bolyai" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Öklid dışı geometrilerin kurucularından biri olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2724" source="Hans Reichenbach" target="Lobatschefsky" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Öklid dışı geometrilerin kurucularından biri olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2725" source="Hans Reichenbach" target="J. Hosiasson">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Reichenbach'ın olasılık mantığına yönelik eleştirilerde bulunan bir isim olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2726" source="Hans Reichenbach" target="Schrödinger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Dalga mekaniği formülünü yayınlayan ve metinde estetik/moral gerekçelerle teorisini savunan bir fizikçi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2727" source="Hans Reichenbach" target="Charles Peirce" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım ve olasılık arasındaki ilişkiyi erken dönemde fark eden ancak &quot;abduction&quot; (çıkarım) konusundaki fikirleri yazar tarafından eleştirilen bir filozoftur."/>
+        </attvalues>
+      </edge>
+      <edge id="2728" source="Hans Reichenbach" target="A. A. Michelson" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Işık hızı ölçümleriyle ilgili çalışmasına atıfta bulunulan fizikçidir."/>
+        </attvalues>
+      </edge>
+      <edge id="2734" source="Hans Reichenbach" target="Euclid">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach_1936_probability"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Geometri sistemine referans verilen matematikçidir."/>
+        </attvalues>
+      </edge>
+      <edge id="2738" source="Akder" target="Pascal">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pensees eserinden bir alıntı yapılarak, eylem ve temaşa üzerine görüşleri aktarılan Fransız düşünür."/>
+        </attvalues>
+      </edge>
+      <edge id="2739" source="Akder" target="Spinoza">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Septiklere yaklaşımı ve &quot;zihni aşk&quot; (amor intellectualis) kavramı ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2740" source="Akder" target="Kant">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Nazariyecinin ferdiyetçiliğine örnek olarak gösterilen, kız kardeşinin ölümü üzerine tutumu ve felsefi görüşleri ile anılan filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2741" source="Akder" target="Ziya Gökalp">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İlmi nazariyeler ve toplumsal görüşleri ile anılan fikir adamı."/>
+        </attvalues>
+      </edge>
+      <edge id="2742" source="Akder" target="Newton">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Büyük bir mekanik nazariyecisi olarak, ameli işlerdeki şaşkınlığı ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2743" source="Akder" target="Yahya Kemal">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ziya Gökalp hakkındaki görüşlerine atıfta bulunulan şair/yazar."/>
+        </attvalues>
+      </edge>
+      <edge id="2744" source="Akder" target="Şekip Tunc">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Profesör; ilk Hıristiyanlık ve İslamiyet'teki irade üzerine görüşleri aktarılan akademisyen."/>
+        </attvalues>
+      </edge>
+      <edge id="2745" source="Akder" target="Hegel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Diyalektik sistemi ile anılan filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2746" source="Akder" target="Goethe">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Napoleon hakkındaki şehadeti ve Faust eseri ile anılan yazar/düşünür."/>
+        </attvalues>
+      </edge>
+      <edge id="2747" source="Akder" target="Charles Gide">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Servet hırsı üzerine görüşleri aktarılan iktisatçı."/>
+        </attvalues>
+      </edge>
+      <edge id="2748" source="Akder" target="Baltacıoğlu">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mustafa Kemal'in şahsiyeti üzerine görüşleri aktarılan profesör."/>
+        </attvalues>
+      </edge>
+      <edge id="2749" source="Akder" target="Lord Shelburne">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="İngiltere'nin geleceği üzerine görüşleri aktarılan devlet adamı."/>
+        </attvalues>
+      </edge>
+      <edge id="2750" source="Akder" target="Burke">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fransız ihtilali üzerine kehanetleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2751" source="Akder" target="Fox">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fransız ihtilali üzerine kehanetleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2752" source="Akder" target="Arthur Jung">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fransa'nın geleceği üzerine görüşleri aktarılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2753" source="Akder" target="Tocqueville">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Amerika cumhuriyeti üzerine öngörüleri ile anılan düşünür."/>
+        </attvalues>
+      </edge>
+      <edge id="2754" source="Akder" target="Heine">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Almanya ve Fransa üzerine öngörüleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2755" source="Akder" target="Quinet">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Almanya'nın geleceği üzerine öngörüleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2756" source="Akder" target="Berkeley">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivizmin kökleri ile anılan İngiliz feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2757" source="Akder" target="David Hume">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivizmin kökleri ile anılan İngiliz feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2758" source="Akder" target="Avenarius">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kritik der reinen Erfahrung eseri ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2759" source="Akder" target="Darwin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Struggle for life prensibi ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2760" source="Akder" target="Nietzsche">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Struggle for life prensibi ile anılan ve felsefi mesleği ile anılan düşünür."/>
+        </attvalues>
+      </edge>
+      <edge id="2761" source="Akder" target="Vaihinger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Als ob felsefesi ile anılan Alman feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2762" source="Akder" target="William James">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pragmatizm ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2763" source="Akder" target="Hüseyin Cahit Yalçın">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Hayatı hakikiye sahneleri eseri ile anılan yazar."/>
+        </attvalues>
+      </edge>
+      <edge id="2764" source="Akder" target="Hilbert">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Aksiyomatik usul ile anılan matematikçi."/>
+        </attvalues>
+      </edge>
+      <edge id="2765" source="Akder" target="Cantor">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kümeler nazariyesi ile anılan matematikçi."/>
+        </attvalues>
+      </edge>
+      <edge id="2766" source="Akder" target="Leibniz">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistiğin temelleri ile anılan filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2767" source="Akder" target="Giovanni Peano">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistik ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2768" source="Akder" target="Gottlob Frege">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistik ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2769" source="Akder" target="Whitehead">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistik ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2770" source="Akder" target="Russell">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistik ve tarafsız monizm ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2771" source="Akder" target="Wittgenstein">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Lojistik ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2772" source="Akder" target="Rudolph Carnap">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Der logische Aufbau der Welt eseri ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2773" source="Akder" target="Otto Neurath">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İktisatçı ve yeni pozitivizm temsilcisi."/>
+        </attvalues>
+      </edge>
+      <edge id="2774" source="Akder" target="Reichenbach">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İlmi felsefe ve ihtimaliyet mantığı ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2775" source="Akder" target="Galilei">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sukut kanunu ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2776" source="Akder" target="Einstein">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Nazariyeleri ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2777" source="Akder" target="Planck">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Nazariyeleri ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2778" source="Akder" target="Henri Poincare">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizikçilerin metafizik meseleler üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2779" source="Akder" target="Nicolai Hartmann">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizik ve ontoloji üzerine görüşleri ile anılan feylesof."/>
+        </attvalues>
+      </edge>
+      <edge id="2780" source="Akder" target="Brehier">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İlimlerin mertebeleri üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2781" source="Akder" target="Claude Bernard">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Cours de Philosophie positive üzerine notları ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2782" source="Akder" target="Borel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Entropi üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2783" source="Akder" target="J. W. N. Sullivan">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İlmi prensipler üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2784" source="Akder" target="Gianbastio Vico">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematik yakin üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2785" source="Akder" target="Louis de Broglie">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Dalga mekaniği ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2786" source="Akder" target="Schrödinger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Denklemleri ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2787" source="Akder" target="Maurice de Broglie">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Dalga mefhumu üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2788" source="Akder" target="Eddington">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kozmolojik görüşleri ile anılan bilim insanı."/>
+        </attvalues>
+      </edge>
+      <edge id="2789" source="Akder" target="Milne">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Kozmolojik prensibi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2790" source="Akder" target="Lebesgue">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematik üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2791" source="Akder" target="Lecomte du Noüy">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Carnap'a itirazları ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2792" source="Akder" target="Diderot">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Amprizm ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2793" source="Akder" target="Condillac">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Amprizm ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2794" source="Akder" target="Condorcet">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Amprizm ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2795" source="Akder" target="L. Rougier">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sovyet mistiği üzerine eseri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2796" source="Akder" target="Tevfik Fikret">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Şiirleri ile anılan şair."/>
+        </attvalues>
+      </edge>
+      <edge id="2797" source="Akder" target="Laffon-Montels">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Liberalizm-sosyalizm üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2798" source="Akder" target="Edmond Dolleans">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İşçi hareketi tarihi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2799" source="Akder" target="Andre Lorulot">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Barbarlık üzerine eseri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2800" source="Akder" target="Mehmed Akif">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Şiirleri ile anılan şair."/>
+        </attvalues>
+      </edge>
+      <edge id="2801" source="Akder" target="Ricardo">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İktisadi sistemleri ile anılan iktisatçı."/>
+        </attvalues>
+      </edge>
+      <edge id="2802" source="Akder" target="Georges Sorel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sendikalist Marxizm ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2803" source="Akder" target="Hitler">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sosyalizm üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2804" source="Akder" target="Landschuts">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Marx üzerine eleştirisi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2805" source="Akder" target="Sorokin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Marx üzerine eleştirisi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2806" source="Akder" target="Stalin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İnsanlar üzerine görüşleri ile anılan lider."/>
+        </attvalues>
+      </edge>
+      <edge id="2807" source="Akder" target="Sokrat">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sofistlere karşı mücadelesi ve felsefi fazileti ile anılan filozof."/>
+        </attvalues>
+      </edge>
+      <edge id="2808" source="Akder" target="Dupont Witt">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Barbarlık üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2809" source="Akder" target="Kautsky">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Marx üzerine çalışmaları ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2810" source="Akder" target="Engels">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Marx üzerine çalışmaları ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2811" source="Akder" target="Sombart">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Marx üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2812" source="Akder" target="Jean Paul">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Din üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2813" source="Akder" target="Spranger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Anlayış problemi üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2814" source="Akder" target="Rickert">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tarih ve kültür felsefesi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2815" source="Akder" target="Windelband">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tarih felsefesi ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2816" source="Akder" target="Lalande">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bünye kelimesi üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2817" source="Akder" target="Wilhelm Jerusalem">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sosyoloji üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2818" source="Akder" target="Tagor">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sadhana eseri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2819" source="Akder" target="Beethoven">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Müzik üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2820" source="Akder" target="Simmel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ruhi görüş üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2821" source="Akder" target="Aristofan">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sokrat hakkındaki portreleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2822" source="Akder" target="Jacques Maritain">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Machiavelli üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2823" source="Akder" target="Machiavelli">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İktidar ve siyaset üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2824" source="Akder" target="Allan H. Gilbert">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Machiavelli üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2825" source="Akder" target="Max Lerner">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Machiavelli üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2826" source="Akder" target="Alberto Mochi">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bolşevizm üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2827" source="Akder" target="Gompertz">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sokrat üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2828" source="Akder" target="Vorlaender">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Akder_1946_aksiyom (1)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Eflatun idealizmi üzerine görüşleri ile anılan kişi."/>
+        </attvalues>
+      </edge>
+      <edge id="2829" source="Boran" target="Auguste Comte">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Sosyolojiyi müsbet bir bilim olarak ilan eden kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2830" source="Boran" target="C. Cooley (Charles Cooley)">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Amerika’da sosyolojinin müsbet bir bilim olamayacağı fikrini savunan ve &quot;bütüncülük&quot; görüşünü öne süren bir sosyolog olarak belirtilmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2831" source="Boran" target="Dilthey">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Manevi bilimler ve tabii bilimler ayrımını yapan, sosyolojideki ikilik görüşünü savunan Alman mektebi temsilcilerinden biri olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2832" source="Boran" target="M. Weber">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Alman mektebinde yer alan, manevi bilimler-tabii bilimler ayrımını savunan ve protestanlık ile kapitalizm arasındaki ilişkiyi inceleyen bir sosyolog olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2833" source="Boran" target="W. Sombart">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Alman mektebinde yer alan ve manevi bilimler-tabii bilimler ayrımını savunan düşünürlerden biri olarak belirtilmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2834" source="Boran" target="G. A. Lunberg">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Social Research adlı eserin yazarı olarak, sosyolojiyi müsbet bir bilim olarak ele alan fikirlerin kaynağı bağlamında anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2835" source="Boran" target="Galile">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizik alanında müsbet bilim metodunu uyguladığı dönemde otoritelerin tepkisiyle karşılaşan bir örnek olarak zikredilmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2836" source="Boran" target="Piaget">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Le jugement moral chez l'enfant adlı eseriyle çocuk gruplarında kaidelerin nasıl doğduğunu gösteren bir araştırmacı olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2837" source="Boran" target="F. Thrasher">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="The Gang adlı eseriyle Şikago’daki suçlu çocuk gruplarında kıymetlerin oluşumunu inceleyen bir araştırmacı olarak belirtilmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2838" source="Boran" target="Muzaffer Şerif">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="The Psychology of the Social Norms adlı eseriyle sosyal normların teşekkülünü laboratuvar ortamında inceleyen bir araştırmacı olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2839" source="Boran" target="J. F. Markey">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Boran_1943_sosyoloji"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="The Symbolic Process adlı eserin yazarı olarak, bilgi süreci ve sembolik süreçler bağlamında referans verilmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2840" source="Nusret Hızır" target="Hegel" weight="3.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır'ın Hızır_1948_kavram3 başlıklı"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Phaenomenologie des Geistes&quot; ve &quot;Wissenschaft der Logik&quot; adlı eserlerine atıfta bulunularak, sübjektif-objektif ikiliğine getirdiği diyalektik yorum bağlamında anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2841" source="Nusret Hızır" target="Darwin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Darwinisme&quot; başlığı altında, tabii ayıklanma kavramı üzerinden bir düşünüş sistemi temsilcisi olarak geçmektedir."/>
+        </attvalues>
+      </edge>
+      <edge id="2842" source="Nusret Hızır" target="Descartes">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Felsefesindeki &quot;doğuştan (innées) fikirler&quot; kavramı üzerinden, kavramların kaynağı tartışmasında anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2843" source="Nusret Hızır" target="Galilei" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır’ın Hızır_1947_formelleştirme başlıklı"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizik alanındaki çalışmalarıyla, iki hakikat-değerli mantık sistemine örnek teşkil eden &quot;Galilei-Newton fiziği&quot; bağlamında anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2844" source="Nusret Hızır" target="Kepler">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Newton'un evrensel çekim kanunu ile ilişkilendirilen gök sistemi sahibi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2845" source="Nusret Hızır" target="Lykurgos">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Spartalılara verdiği öğüt üzerinden, tarihsel bir figür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2846" source="Nusret Hızır" target="Eflâtun (Platon)">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Eserlerinde Lykurgos'un öğüdünü tekrar eden bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2847" source="Nusret Hızır" target="J. J. Rousseau">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Contrat Social adlı eserindeki bir paradoksu savunan yazar olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2848" source="Nusret Hızır" target="Hans Reichenbach" weight="3.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Wahrscheinlichkeitslehre ve Experience and prediction adlı eserleriyle, çok değerli mantıklar ve olasılık üzerine görüşleri aktarılan bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2849" source="Nusret Hızır" target="Bertrand Russell">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantık üzerindeki düşünceleri üzerinde etkisi olan bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2850" source="Nusret Hızır" target="Wittgenstein">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_bünye"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantık üzerindeki düşünceleri üzerinde etkisi olan bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2851" source="Nusret Hızır" target="R. Carnap" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır'ın Hızır_1948_kavram3 başlıklı"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana çevresi ile ilişkili bir isim olarak, &quot;Die physikalische Sprache als Universalsprache der Wissenschaft&quot; adlı eseriyle birlikte anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2852" source="Nusret Hızır" target="Laplace">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Geçmişi, şimdiyi ve geleceği tek bir matematik formülde toplayan &quot;insanüstü varlık&quot; fikrinin sahibi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2853" source="Nusret Hızır" target="W. Heisenberg">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Belirsizlik Bağıntısı&quot; (Ungenauigkeitsrelation) ilkesini ortaya koyan ve bir elektronun yerinin ve hızının aynı anda bilinemeyeceğini gösteren yeni fizik temsilcisi olarak belirtilmiştir."/>
+        </attvalues>
+      </edge>
+      <edge id="2854" source="Nusret Hızır" target="David Hume">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım probleminin tabiat bilgisinin en büyük muamması olduğunu gösteren düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2855" source="Nusret Hızır" target="Max Planck">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında &quot;Dynamische und statistische Gesetzmassigkeit&quot; adlı eseriyle yer almaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2856" source="Nusret Hızır" target="R. von Mises">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında &quot;Wahrscheinlichkeit, Statistik, Wahrheit&quot; adlı eseriyle yer almaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2858" source="Nusret Hızır" target="Lukasiewicz">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında Tarski ile birlikte ortak bir çalışmasıyla yer almaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2859" source="Nusret Hızır" target="Tarski">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında Lukasiewicz ile birlikte ortak bir çalışmasıyla yer almaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2860" source="Nusret Hızır" target="E. L. Post">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında &quot;American Journal of Math.&quot; dergisindeki çalışmasıyla yer almaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2861" source="Nusret Hızır" target="Geiger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında Hans Reichenbach'ın bir eserinin editörü olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2862" source="Nusret Hızır" target="Scheel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1944_olasılık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bibliyografya kısmında Hans Reichenbach'ın bir eserinin editörü olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2863" source="Nusret Hızır" target="Kant" weight="3.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Kant'çılık&quot; ve &quot;Yeni Kant'çılık&quot; akımları üzerinden, metafizik tartışmaları bağlamında ve mutlak-göreli kavramlarını incelemek için referans alınan filozof olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2865" source="Nusret Hızır" target="Rudolph Carnap" weight="2.0">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana çevresinden bir düşünür; başlangıçta psikolojik pozitivist iken sonradan realizme meyletmiş ve Otto Neurath ile birlikte &quot;Physikalismus&quot; teorisini ortaya atmıştır."/>
+        </attvalues>
+      </edge>
+      <edge id="2866" source="Nusret Hızır" target="A. Lalande">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Vocabulaire technique et critique de la Philosophie adlı eseriyle, &quot;olabilirlik&quot; kavramının sınıflandırılması ve tanımlanması bağlamında anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2867" source="Nusret Hızır" target="D. Hilbert">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Grundzüge der theoretischen Logik adlı eserin ortak yazarlarından biri olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2868" source="Nusret Hızır" target="W. Ackermann">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Grundzüge der theoretischen Logik adlı eserin ortak yazarlarından biri olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2869" source="Nusret Hızır" target="Leon Brunschvicg">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="la Modalité du Jugement adlı eseriyle, mantıkta kiplik problemi üzerine tarihsel bir perspektif sunan bir düşünür olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2870" source="Nusret Hızır" target="Cournot">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1945_mantık"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="Essai sur les Fondements de nos connaissances ve Théorie des Chances et des Probabilités adlı eserleriyle, olasılık ve fiziksel olabilirlik üzerine görüşleri tartışılan bir düşünürdür."/>
+        </attvalues>
+      </edge>
+      <edge id="2871" source="Nusret Hızır" target="Reichenbach">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır’ın Hızır_1947_formelleştirme başlıklı"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Olasılık mantığını kuran kişi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2873" source="Nusret Hızır" target="Aristo">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır’ın Hızır_1947_formelleştirme başlıklı"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Klasik mantığın kurucusu ve mantıktaki bulanıklığın başlangıç noktası olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2875" source="Nusret Hızır" target="Newton">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır’ın Hızır_1947_formelleştirme başlıklı"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Galilei ile birlikte, iki hakikat-değerli mantık sistemine örnek olarak gösterilen fizik anlayışının temsilcisi olarak anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2876" source="Nusret Hızır" target="Auguste Comte">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivizmin asıl kurucusu olarak anılır; bilimi olaylar arasındaki karşılıklı ilişkilerin sistemli bilgisi olarak gören ve bilimlerin modelini matematikleşmiş tabiat bilimi (fizik) olarak belirleyen düşünürdür."/>
+        </attvalues>
+      </edge>
+      <edge id="2879" source="Nusret Hızır" target="Moritz Schlick">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana çevresinden bir düşünür; başlangıçta realizmi savunurken ömrünün sonlarına doğru mutedil bir pozitivizme yaklaşmıştır."/>
+        </attvalues>
+      </edge>
+      <edge id="2880" source="Nusret Hızır" target="Hans Hahn">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana çevresine mensup, felsefe araştırmalarını matematiğe hasretmiş bir matematikçi olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2881" source="Nusret Hızır" target="Otto Neurath">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana çevresinin başlıca sosyoloğu olarak anılır ve Carnap ile birlikte &quot;Physikalismus&quot; teorisini geliştirmiştir."/>
+        </attvalues>
+      </edge>
+      <edge id="2882" source="Nusret Hızır" target="Eflâtun">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Hızır_1947_kavram1"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak ilişkisi"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;Eflâtun idealisttir&quot; örneği üzerinden, idealizm kavramının günlük hayattaki kullanımına dair bir referans olarak geçer."/>
+        </attvalues>
+      </edge>
+      <edge id="2885" source="Nusret Hızır" target="Schelling">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Nusret Hızır'ın Hızır_1948_kavram3 başlıklı"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="&quot;İdentitaetsphilosophie&quot; (Özdeşlik felsefesi) kurucusu olarak, süje-obje ayrımına dair görüşleri üzerinden anılmaktadır."/>
+        </attvalues>
+      </edge>
+      <edge id="2887" source="Hans Reichenbach" target="Avenarius">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivist/empirist düşünce ve davranışçılık bağlamında önceki bir düşünsel kaynak olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2888" source="Hans Reichenbach" target="Bacon">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım ve bilimsel yöntemin tarihsel gelişimi bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2890" source="Hans Reichenbach" target="Boltzmann">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fiziksel teorilerin örneği olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2891" source="Hans Reichenbach" target="Boole">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Olasılık mantığı ve düşünce yasaları bağlamında tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2893" source="Hans Reichenbach" target="Darwin">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İnanç ve tümevarım davranışının seçilimle açıklanması bağlamında kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2894" source="Hans Reichenbach" target="De Morgan">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantık ve biçimsel çıkarımın tarihsel gelişimi içinde anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2898" source="Hans Reichenbach" target="Fleck">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel bilginin oluşumu ve sosyolojik boyutu bağlamında kaynak olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2899" source="Hans Reichenbach" target="Freud">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Psikoloji ve psikanaliz bağlamında bilimsel bilgi tartışmasına örnek oluşturur."/>
+        </attvalues>
+      </edge>
+      <edge id="2900" source="Hans Reichenbach" target="Galileo">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel yöntem ve fizik yasalarının tarihsel örneği olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2901" source="Hans Reichenbach" target="Gauss">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılık kuramının gelişiminde anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2902" source="Hans Reichenbach" target="Hartmann">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım ve bilimsel akıl yürütme bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2904" source="Hans Reichenbach" target="Hempel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivist doğruluk/gerçeklik tartışmasına ilişkin çalışmasına açık atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2905" source="Hans Reichenbach" target="Hilbert">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Modern biçimsel mantığın gelişiminde temel isimlerden biri olarak ilişkilendirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2909" source="Hans Reichenbach" target="Kepler">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel yasaların ve fiziksel açıklamanın tarihsel örneği olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2910" source="Hans Reichenbach" target="Keynes">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Olasılık mantığı ve rasyonel inanç yaklaşımının temsilcisi olarak tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2911" source="Hans Reichenbach" target="Kokoszynska">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Doğruluk kavramına ilişkin çalışmasına açık bibliyografik atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2912" source="Hans Reichenbach" target="Kolmogoroff">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılık alanındaki çağdaş araştırmacılardan biri olarak kaynak gösterilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2913" source="Hans Reichenbach" target="Laplace">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılık ve determinizm/prediksiyon bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2914" source="Hans Reichenbach" target="Lavoisier">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel yasaların/olguların örneklendirilmesinde fizik-kimya örneği olarak kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2915" source="Hans Reichenbach" target="Leibnitz">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Apriorizm ve uzay/hareket sorunları bağlamında tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2916" source="Hans Reichenbach" target="Levy-Bruhl">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilgi ve psikoloji/sosyoloji sınırları bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2917" source="Hans Reichenbach" target="Lewis">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilgi, anlam ve mantıksal ilişkiler bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2918" source="Hans Reichenbach" target="Lichtenberg">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Benlik ve özdeşlik tartışmasında eserine açık atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2919" source="Hans Reichenbach" target="Locke">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ampirizm ve bilgi kuramında doğuştan fikirler tartışması bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2920" source="Hans Reichenbach" target="Lowy">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Psikolojik deneyim/algı tartışmasında kaynak olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2922" source="Hans Reichenbach" target="Mach">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Pozitivizm, doğrulanabilirlik ve fiziksel kavramların eleştirisi bağlamında önemli referanstır."/>
+        </attvalues>
+      </edge>
+      <edge id="2923" source="Hans Reichenbach" target="Michelson">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel yasa ile tekil olgu ayrımını göstermek için deney örneği olarak kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2924" source="Hans Reichenbach" target="Mill">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım kuramı, Hume'un eleştirileri karşısında yetersizliği bağlamında tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2925" source="Hans Reichenbach" target="Mises">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılığın çağdaş araştırmacılarından biri olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2926" source="Hans Reichenbach" target="Neurath">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Viyana pozitivizminin davranışçı/physicalist yönelimi bağlamında Carnap ile birlikte anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2927" source="Hans Reichenbach" target="Newton">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Klasik fizik ve doğa yasalarının örneği olarak kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2928" source="Hans Reichenbach" target="Ogden">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Dil işlevleri açıklanırken fikirlerinden yararlanıldığı açıkça belirtilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2929" source="Hans Reichenbach" target="Pascal">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılığın tarihsel başlangıç noktalarından biri olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2931" source="Hans Reichenbach" target="Plato">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Apriorist mantık ve idealar kuramı bağlamında tarihsel referanstır."/>
+        </attvalues>
+      </edge>
+      <edge id="2932" source="Hans Reichenbach" target="Poincare">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Konvansiyonalizm bağlamında hem tarihsel katkısı hem de aşırılıkları tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2935" source="Hans Reichenbach" target="Schaxel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bireyler arası deneyim/algı tartışmasında çalışmasına açık atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2938" source="Hans Reichenbach" target="Tolman">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Davranışçılık tartışmasında çalışmasına açık atıf yapılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2939" source="Hans Reichenbach" target="Tornier">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Atıf / kaynak"/>
+          <attvalue for="kaynak metindeki açıklama" value="Matematiksel olasılık araştırmacıları arasında açıkça kaynak gösterilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2940" source="Hans Reichenbach" target="Venn">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım konusunda Hume'un itirazlarını yeterince dikkate almamakla eleştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2941" source="Hans Reichenbach" target="Voltaire">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Hume etkisi ve özdeşlik/benlik tartışmasında tarihsel örnek olarak kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2942" source="Hans Reichenbach" target="Watson">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Davranışçılığın gelişiminde Carnap ve Neurath ile birlikte anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2943" source="Hans Reichenbach" target="Whewell">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım kuramı Hume'un itirazları karşısında yetersiz bulunarak eleştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2944" source="Hans Reichenbach" target="William of Ockham">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Entelektüel ilişki / etki"/>
+          <attvalue for="kaynak metindeki açıklama" value="Ockham ilkesi, doğrulanabilirlik ve nominalizm tartışmalarının tarihsel kaynağı olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2945" source="Hans Reichenbach" target="Wittgenstein">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Doğrulanabilirlik ve gelecek önermeleri konusundaki yaklaşımı açıkça eleştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2946" source="Hans Reichenbach" target="Zawirski">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="Reichenbach – Experience and Prediction (1938)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Olasılık mantığının çağdaş gelişiminde adı geçen yazarlardan biridir."/>
+        </attvalues>
+      </edge>
+      <edge id="2947" source="Ernst von Aster" target="Aristoteles">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mantığın kurucu çerçevesi, tümevarım ve tasım/sillojizm tartışmalarında temel referanstır."/>
+        </attvalues>
+      </edge>
+      <edge id="2948" source="Ernst von Aster" target="Kant">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="A priori bilgi ve nedensellik görüşleri tartışılır; Kant'ın bilimin ilkelerini mutlaklaştırmasına yönelik eleştiri geliştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2949" source="Ernst von Aster" target="Descartes">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Nedensellik ve Yeniçağ rasyonalizmi bağlamında çözüm girişimi olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2950" source="Ernst von Aster" target="Berkeley">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilgi teorisi ve psikolojik pozitivizm bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2951" source="Ernst von Aster" target="Hume">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarımın kanıtlanamazlığı ve nedensellik sorunundaki şüpheci yaklaşımı temel referanstır."/>
+        </attvalues>
+      </edge>
+      <edge id="2952" source="Ernst von Aster" target="Platon">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilgi, düşünme ve mantığın tarihsel gelişiminde anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2953" source="Ernst von Aster" target="Euklides">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Geometrik kavramların ve matematiksel örneklerin açıklanmasında kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2954" source="Ernst von Aster" target="Newton">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Fizik yasaları ve yeni doğa bilimi bağlamında örnek olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2955" source="Ernst von Aster" target="Mill">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel tümevarımın yöntemlerini sistematikleştiren düşünür olarak doğrudan tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2956" source="Ernst von Aster" target="Bacon">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Modern tümevarım yönteminin tarihsel başlangıcı bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2957" source="Ernst von Aster" target="Locke">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Doğuştan bilgi/fikirler eleştirisi ve ampirizm bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2958" source="Ernst von Aster" target="Leibniz">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="A priori bilgi ve nedensellik ilkesi bağlamında Kant ile birlikte tartışılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2959" source="Ernst von Aster" target="Christian Wolff">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Eleştiri / karşıtlık"/>
+          <attvalue for="kaynak metindeki açıklama" value="Nedensellik kanununun a priori geçerliliğini kanıtlama girişimi açıkça eleştirilir."/>
+        </attvalues>
+      </edge>
+      <edge id="2960" source="Ernst von Aster" target="Vaihinger">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="İdeal kavramlar ve 'Als Ob' yaklaşımı bağlamında anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2961" source="Ernst von Aster" target="Galilei">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Doğa yasaları ve ideal koşulların bilimsel açıklamadaki rolünü örnekler."/>
+        </attvalues>
+      </edge>
+      <edge id="2962" source="Ernst von Aster" target="Laplace">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Determinizm ve geleceğin öngörülebilirliği fikrinin klasik örneği olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2963" source="Ernst von Aster" target="Mendel">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Genetik-konstrüktif kavramlaştırmaya bilimsel örnek olarak kullanılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2964" source="Ernst von Aster" target="Kopernikus">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Gözlem koşullarının ve öznel çerçevenin bilimsel kavrayışı değiştirmesine örnek olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2965" source="Ernst von Aster" target="Gazali">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Tümevarım problemine ilişkin tarihsel tartışmanın Ortaçağ temsilcisi olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2966" source="Ernst von Aster" target="Maxwell">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Bilimsel kavramlaştırma ve doğa bilimleri bağlamında örnek olarak anılır."/>
+        </attvalues>
+      </edge>
+      <edge id="2967" source="Ernst von Aster" target="Lamettrie">
+        <attvalues>
+          <attvalue for="dönem" value="1923–1949"/>
+          <attvalue for="metin" value="von Aster – Bilgi Teorisi ve Mantık (özgün ders notları 1945; 1994 baskı)"/>
+          <attvalue for="ilişki türü" value="Kavramsal / teorik referans"/>
+          <attvalue for="kaynak metindeki açıklama" value="Mekanizm tartışmasının tarihsel bağlamında anılır."/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
